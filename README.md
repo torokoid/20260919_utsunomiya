@@ -230,7 +230,7 @@ p.note { display: none; }
 <h2><span class="yellow">午後には青空が広がりました</span></h2>
 <a href="20260919_00038.jpeg" target="_blank"><img src="20260919_00038.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">マロニエの展示会に来ました</span></h2>
+<h2><span class="yellow">マロニエの展示会に行きました</span></h2>
 <a href="20260919_00039.jpeg" target="_blank"><img src="20260919_00039.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">mocha展など観てきました<br>画像クリックでHPに飛びます↓</span></h2>
