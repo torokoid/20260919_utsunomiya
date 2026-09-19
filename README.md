@@ -234,7 +234,7 @@ p.note { display: none; }
 <a href="20260919_00039.jpeg" target="_blank"><img src="20260919_00039.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">mocha展など観てきました<br>画像クリックでHPに飛びます↓</span></h2>
-<a href="https://mocha-artportal.net/" target="_blank"><img src="20260919_00010.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="https://mocha-artportal.net/" target="_blank"><img src="20260919_00001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">いつものドリームプールかわち玄関前のお花達も綺麗に満開</span></h2>
 <a href="20260919_00040.jpeg" target="_blank"><img src="20260919_00040.jpeg" alt="サンプル画像" class="responsive-media"></a>
